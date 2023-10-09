@@ -1,0 +1,9 @@
+DESCRIERE:
+
+1.Se încarcă informații despre cărți dintr-un fișier numit "Carti.txt" în lista Clist. 
+2.Fiecare linie din fișier reprezintă o carte, iar informațiile despre codul cărții și titlu sunt extrase și stocate în obiecte de tip Carte.
+3.Se adaugă cititori în lista Slist. 
+4.Fiecare cititor are un ID, nume și prenume.
+5.Utilizatorul poate căuta un cititor după ID-ul său, apoi poate efectua operațiuni precum împrumutarea și returnarea cărților sau interogarea cărților împrumutate.
+6.Ciclul principal permite utilizatorului să selecteze opțiuni și să efectueze operațiuni asupra cititorilor și cărților.
+7.La final, utilizatorul poate alege să încheie programul (opțiunea 5).
